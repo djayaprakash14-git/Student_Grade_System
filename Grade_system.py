@@ -10,7 +10,7 @@ while True:
     except Exception as e:
         print("Invalid input:", e)
 
-# Collect student details
+# Collect student detailss
 for i in range(count):
     print(f"\nStudent {i + 1}")
 
