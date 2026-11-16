@@ -46,7 +46,7 @@ for i in range(count):
     students.append({"name": name, "marks": marks, "grade": grade})
 
 # Display all results
-print("\n--- Student Results ---")
+print("\n--- Student Resultss ---")
 print(f"{'Name':<20} {'Marks':<10} Grade")
 
 for student in students:
