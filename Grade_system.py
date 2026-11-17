@@ -50,7 +50,7 @@ print("\n--- Student Resultss ---")
 print(f"{'Name':<20} {'Marks':<10} Grade")
 
 for student in students:
-    print(
+    print( 
         f"{student['name']:<20} "
         f"{student['marks']:<10} "
         f"{student['grade']}"
